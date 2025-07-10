@@ -45,7 +45,7 @@ To analyze machine and factory-level data to:
 ## 🛠 Tools & Technologies
 
 - **Excel** (data cleaning, pivot tables, charts)  
-- **Power BI** (dashboard creation, filters, KPIs)  
+- **Tableau** (dashboard creation, filters, KPIs)  
 - **Business Analytics** (operational efficiency, cost reduction)  
 
 ---
