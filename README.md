@@ -27,14 +27,14 @@ This repository showcases my participation in the **Deloitte Australia Virtual I
    - Generated insights on frequency, loyalty, and spending
 
 3. **Dashboard Reporting**  
-   - Created Power BI dashboards simulating business reporting  
+   - Created Tableau dashboards simulating business reporting  
    - Delivered insights to reduce churn and increase retention
 
 ---
 
 ## 🛠 Tools & Skills Used
 
-- Power BI  
+- Tableau
 - Excel  
 - Data Cleaning  
 - Reporting & Visualization  
