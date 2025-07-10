@@ -12,7 +12,7 @@ This repository showcases my participation in the **Deloitte Australia Virtual I
 - **Provider:** Deloitte Australia  
 - **Platform:** Forage  
 - **Role:** Data Analyst (Customer Insights)  
-- **Duration:** May 2024 – June 2024
+- **Duration:** July 2025 – July 2025
 
 ---
 
